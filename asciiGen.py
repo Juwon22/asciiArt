@@ -1,6 +1,11 @@
 from PIL import Image
 import math
 
+##TODO:
+## Write to text files with coloured ascii
+## Edit ascii filter with better support for darker images
+
+
 im = Image.open("rainbow.jpg")
 
 
